@@ -1,6 +1,11 @@
 #include "../helper/combat.cpp"
 #include "../helper/minigames.cpp"
 // test docs
+// test docs
+// test docs
+// test docs
+// test docs
+// test docs
 int main()
 {
 #if defined(_WIN32) || defined(_WIN64)
