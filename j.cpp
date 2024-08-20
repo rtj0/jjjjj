@@ -1,11 +1,13 @@
 #include "../helper/combat.cpp"
-#include "../helper/minigames.cpp"
-// test docs
-// test docs
-// test docs
-// test docs
-// test docs
-// test docs
+/**
+ * @brief Calculates the sum of two integers.
+ * 
+ * This function adds two integers and returns the result.
+ * 
+ * @param a The first integer.
+ * @param b The second integer.
+ * @return The sum of `a` and `b`.
+ */
 int main()
 {
 #if defined(_WIN32) || defined(_WIN64)
