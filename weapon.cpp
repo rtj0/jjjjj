@@ -4,7 +4,7 @@
 #include <cstdlib>
 #include <ctime>
 
-// weapon class
+// weapon classj
 class Weapon
 {
 public:
